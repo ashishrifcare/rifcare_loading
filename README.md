@@ -7,9 +7,9 @@ The `rifcare_loading` is a Flutter package that provides reusable and customizab
 
 
 ## Screenshots
-<img alt="Rifcare Loading Simple" src="https://github.com/rifcare/rifcare_loading/assets/screenshot1.gif" width="150" />
+<img alt="Rifcare Loading Simple" src="https://github.com/ashishpan/rifcare_loading/assets/screenshot1.gif" width="150" />
 
-<img alt="Rifcare Loading Modern" src="https://github.com/rifcare/rifcare_loading/assets/screenshot2.gif" width="150" />
+<img alt="Rifcare Loading Modern" src="https://github.com/ashishpan/rifcare_loading/assets/screenshot2.gif" width="150" />
 
 
 

@@ -5,7 +5,7 @@
 #### `CHANGELOG.md`
 
 Track version changes:
-## 0.0.6
+## 0.0.7
 - Stable release of `rifcare_loading`.
 - Added `RifcareLoading.simple` method for displaying a basic loading dialog with a circular progress indicator.
 - Added `RifcareLoading.modern` method for displaying a loading dialog with customizable Lottie animations.
