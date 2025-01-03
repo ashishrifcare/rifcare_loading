@@ -147,7 +147,7 @@ class RifcareLoading {
             borderRadius: BorderRadius.circular(borderRadius ?? 15.0),
           ),
           content: Padding(
-            padding: const EdgeInsets.fromLTRB(0, 0, 0, 10),
+            padding: const EdgeInsets.fromLTRB(0, 0, 0, 8),
             child: SizedBox(
               width: MediaQuery.of(context).size.width * 0.8,
               child: Column(
@@ -182,7 +182,7 @@ class RifcareLoading {
                   ),
 
                   ///space
-                  const SizedBox(height: 10),
+                  const SizedBox(height: 14),
 
                   ///remaining and completed data
                   Row(
@@ -205,6 +205,7 @@ class RifcareLoading {
                       ),
                     ],
                   ),
+
                   const SizedBox(height: 7),
 
                   ClipRRect(
