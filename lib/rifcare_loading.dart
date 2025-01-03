@@ -119,7 +119,7 @@ class RifcareLoading {
   }
   
   
-  /// this is the progress loading where remaining files and completed files are there
+  ///this is the progress loading where remaining files and completed files are there
   static Future<void> progress({
     required BuildContext context,
     String? loadingText,

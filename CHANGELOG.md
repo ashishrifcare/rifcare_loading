@@ -6,7 +6,7 @@
 
 Track version changes:
 ## 1.0.3
-- Stable release of `rifcare_loading`.
+- Latest Stable release of `rifcare_loading`.
 - Added `RifcareLoading.progress` method for displaying a progress loading dialog with progress of your data.
 - Added `RifcareLoading.simple` method for displaying a basic loading dialog with a circular progress indicator.
 - Added `RifcareLoading.modern` method for displaying a loading dialog with customizable Lottie animations.

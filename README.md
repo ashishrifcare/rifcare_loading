@@ -21,7 +21,7 @@ The `rifcare_loading` is a Flutter package that provides reusable and customizab
 - **Modern Loading Dialog**: Includes a customizable Lottie animation and loading prompt.
 - **Progress Loading Dialog**: Provides a progress bar with current and total file information.
 - Fully customizable: Adjust colors, text, animations, icons, and more.
-- Easy integration into any Flutter app.
+- Easy integration into any Flutter applications.
 
 ---
 
