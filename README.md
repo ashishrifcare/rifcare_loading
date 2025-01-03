@@ -1,4 +1,6 @@
-```markdown
+
+# README
+
 # rifcare_loading Library
 
 ## Overview
@@ -31,7 +33,7 @@ Add the following dependency to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  rifcare_loading: ^1.0.3
+  rifcare_loading: ^1.0.4
 ```
 
 Run the following command to fetch the package:
