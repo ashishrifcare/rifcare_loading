@@ -213,5 +213,5 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 For any queries or support, reach out to:
 
 - **Email:** support@rifcare.in
-- **Company:** [RIFCARE TECH PVT LIMITED](#)
+- **Company:** [RIFCARE TECH PVT LIMITED]
 ```
