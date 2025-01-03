@@ -160,17 +160,17 @@ class RifcareLoading {
                         height: 50,
                         width: 50,
                         decoration: BoxDecoration(
-                          color: iconColor.withAlpha(55) ?? Colors.red.withAlpha(55),
+                          color: iconColor ?? Colors.red.withAlpha(55),
                           borderRadius: BorderRadius.circular(25),
                         ),
-                        child: const Icon(
+                        child: Icon(
                           icon ?? Icons.timer_sharp,
                           color: iconColor ?? Colors.red,
                           size: 30,
                         ),
                       ),
                       const SizedBox(width: 15),
-                      const Text(
+                      Text(
                         loadingText ?? 'Loading ...',
                         style: TextStyle(
                           fontSize: loadingTextSize ?? 18,
@@ -185,7 +185,7 @@ class RifcareLoading {
                   const SizedBox(height: 10),
 
                   ///remaining and completed data
-                  const Row(
+                  Row(
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
                       Text(
@@ -211,7 +211,7 @@ class RifcareLoading {
                     borderRadius: BorderRadius.circular(8),
                     child: LinearProgressIndicator(
                       value: value ?? 0.7,
-                      backgroundColor: progressColor.withAlpha(102) ?? Colors.grey.withAlpha(102),
+                      backgroundColor: progressColor ?? Colors.grey.withAlpha(102),
                       color: progressColor ?? Colors.red,
                       minHeight: 8,
                     ),
