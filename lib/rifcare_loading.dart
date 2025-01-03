@@ -160,7 +160,7 @@ class RifcareLoading {
                         height: 50,
                         width: 50,
                         decoration: BoxDecoration(
-                          color: iconColor.withOpacity(0.2) ?? Colors.red.withOpacity(0.2),
+                          color: iconColor.withAlpha(55) ?? Colors.red.withOpacity(55),
                           borderRadius: BorderRadius.circular(25),
                         ),
                         child: const Icon(
