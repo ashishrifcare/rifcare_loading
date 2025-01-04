@@ -33,7 +33,7 @@ Add the following dependency to your `pubspec.yaml` file:
 
 ```yaml
 dependencies:
-  rifcare_loading: ^1.0.5
+  rifcare_loading: ^1.0.6
 ```
 
 Run the following command to fetch the package:

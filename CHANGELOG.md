@@ -5,7 +5,7 @@
 #### `CHANGELOG.md`
 
 Track version changes:
-## 1.0.5
+## 1.0.6
 - Latest Stable release of `rifcare_loading`.
 - Added `RifcareLoading.progress` method for displaying a progress loading dialog with progress of your data.
 - Added `RifcareLoading.simple` method for displaying a basic loading dialog with a circular progress indicator.

@@ -128,6 +128,7 @@ class RifcareLoading {
     double? loadingTextSize,
     Color? backgroundColor,
     Color? iconColor,
+    Color? iconBgColor,
     IconData? icon,
     Color? loadingTextColor,
     double? borderRadius,
@@ -160,7 +161,7 @@ class RifcareLoading {
                         height: 50,
                         width: 50,
                         decoration: BoxDecoration(
-                          color: iconColor ?? Colors.red.withAlpha(55),
+                          color: iconBgColor ?? Colors.red.withAlpha(55),
                           borderRadius: BorderRadius.circular(25),
                         ),
                         child: Icon(
