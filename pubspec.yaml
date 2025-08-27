@@ -1,6 +1,6 @@
 name: rifcare_loading
 description: "A lightweight and customizable Flutter package for displaying sleek and responsive alert dialog loading indicators. Designed to enhance user experience with smooth animations and easy integration, this package is perfect for managing loading states in your Flutter apps."
-version: 1.0.6
+version: 2.0.0
 homepage: "https://rifcare.in"
 repository: "https://github.com/ashishpan/rifcare_loading/"
 
